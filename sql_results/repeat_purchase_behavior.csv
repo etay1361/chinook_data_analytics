@@ -1,0 +1,4 @@
+"customer_group","num_of_customers","num_of_orders","avg_orders_per_customer","total_revenue","avg_revenue_per_customer"
+"1 order",59,59,1.00,201.05,3.41
+"2-3 orders",112,306,2.73,1050.80,9.38
+"4+ orders",486,3446,7.09,12604.52,25.94

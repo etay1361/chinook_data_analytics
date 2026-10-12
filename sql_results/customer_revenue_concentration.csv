@@ -1,0 +1,46 @@
+"billingcountry","total_country_amount","unique_customers","top_customers_amount","sales_percent","concentration_level"
+Chile,95.14,10,77.32,81.27,high concentration
+Austria,117.93,12,88.21,74.80,high concentration
+Algeria,79.20,10,57.42,72.50,high concentration
+Kenya,57.45,11,37.63,65.50,high concentration
+Mozambique,77.25,13,50.52,65.40,high concentration
+Malaysia,73.28,12,45.55,62.16,high concentration
+Israel,82.19,11,50.50,61.44,high concentration
+Saudi Arabia,153.56,20,88.18,57.42,high concentration
+United Arab Emirates,46.54,11,25.75,55.33,high concentration
+Spain,125.77,17,69.33,55.12,high concentration
+Yemen,87.15,11,46.56,53.43,high concentration
+Ukraine,135.69,19,72.31,53.29,high concentration
+Paraguay,71.30,17,36.64,51.39,high concentration
+Tanzania,82.26,13,41.62,50.60,high concentration
+Taiwan,157.45,23,78.23,49.69,medium concentration
+Netherlands,172.37,24,83.21,48.27,medium concentration
+Poland,144.56,22,68.31,47.25,medium concentration
+Iran,142.59,21,65.34,45.82,medium concentration
+Italy,144.60,27,65.37,45.21,medium concentration
+South Korea,144.63,22,65.37,45.20,medium concentration
+Puerto Rico,34.67,10,14.87,42.89,medium concentration
+Cambodia,39.60,12,16.83,42.50,medium concentration
+Egypt,151.51,21,64.36,42.48,medium concentration
+France,287.21,16,118.86,41.38,medium concentration
+Peru,74.29,16,30.70,41.32,medium concentration
+Colombia,164.43,26,66.34,40.35,medium concentration
+Germany,312.96,26,118.86,37.98,medium concentration
+Argentina,235.67,33,89.11,37.81,medium concentration
+Dominican Republic,47.52,13,17.82,37.50,medium concentration
+United Kingdom,303.98,29,112.86,37.13,medium concentration
+Nigeria,244.57,33,90.11,36.84,medium concentration
+Venezuela,148.51,27,53.47,36.00,medium concentration
+South Africa,260.46,38,81.23,31.19,medium concentration
+Canada,405.97,30,115.86,28.54,medium concentration
+Indonesia,274.33,47,74.29,27.08,medium concentration
+Philippines,332.81,57,88.17,26.49,medium concentration
+Vietnam,130.72,30,33.67,25.76,medium concentration
+Turkey,316.96,51,79.26,25.01,medium concentration
+Japan,564.44,85,100.02,17.72,low concentration
+Mexico,478.33,87,83.20,17.39,low concentration
+Brazil,735.83,81,118.84,16.15,low concentration
+Russian Federation,516.00,78,78.25,15.16,low concentration
+United States,1353.90,128,134.86,9.96,low concentration
+China,898.29,139,89.15,9.92,low concentration
+India,1267.59,168,112.92,8.91,low concentration
