@@ -68,6 +68,41 @@ Compared the top three music genres sold in January–February 2021 with those s
 - `itay_nahum_final_project_vscode.ipynb` – Python analysis and visualizations.
 - `project_documentation.pdf` – Detailed project documentation, methodology, and findings (Hebrew).
 - `sql_results/` – CSV outputs of three independently developed SQL analyses: monthly sales patterns, customer revenue concentration, and repeat purchase behavior.
+- `chinook_stg.sql` – PostgreSQL database dump containing the staging schema and source data.
+- `data/` – Source files used for department and budget data preparation.
+
+
+## How to Run the Project
+
+### Requirements
+- PostgreSQL
+- DBeaver or another PostgreSQL-compatible SQL client
+- Python 3 with Jupyter Notebook
+- Python libraries: pandas, sqlalchemy, psycopg2, matplotlib, requests
+
+
+### Database Setup
+
+1. Create an empty PostgreSQL database named `chinook`.
+2. Restore the staging schema and source data using `chinook_stg.sql`.
+3. Open the Python notebook and execute the data preparation steps that load the currency exchange rates into `stg.currency`.
+4. Run the SQL scripts to create the `dwh` schema, build the dimension and fact tables, and execute the analytical queries.
+5. Continue with the Python analyses and visualizations.
+
+
+### Python Analysis
+1. Open `itay_nahum_final_project_vscode.ipynb` in Jupyter Notebook or VS Code.
+2. Configure the PostgreSQL connection using the `CHINOOK_DB_PASSWORD` environment variable.
+3. Make sure the `data/` directory is available in the project folder.
+4. Execute the required data preparation steps and analyses.
+
+### Results
+- SQL analysis outputs are available in `sql_results/`.
+- Python visualizations and results are saved in the notebook.
+- Detailed explanations and conclusions are available in `project_documentation.pdf`.
+
+**Note:** The complete setup and execution order have not yet been independently validated in a fresh environment.
+
 
 ## Notes
 
@@ -76,3 +111,4 @@ The project uses a local PostgreSQL database. Database credentials are excluded 
 ## Author
 
 Itay Nahum
+
